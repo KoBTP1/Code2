@@ -1,5 +1,5 @@
 var sound = new Howl({
-    urls: ['song/background.mp3'],
+    urls: ['song/yt1s.com - Lyrics  Vietsub Last Christmas  Wham  Cover by Veronica Bravo.mp3'],
     loop: true
   });
 
@@ -194,7 +194,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Giáng sinh vui vẻ!!!, Chúc mọi người luôn thành công trên con đường đã chọn. Một mùa noel thật ấm áp nha.",
+                        "Giáng sinh vui vẻ!!! Một mùa noel thật ấm áp nha. Chúc bạn luôn vui vẻ, xinh đẹp, yêu đời. Hy vọng bạn luôn cười, vì bạn đẹp nhất khi nở nụ cười ấy.",
                         ],
                         typeSpeed: 100,
                         startDelay: 100,
