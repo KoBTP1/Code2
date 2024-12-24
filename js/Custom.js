@@ -196,11 +196,8 @@ $(document).ready(function() {
                         "<<< Merry Christmas >>>",
                         "Giáng sinh vui vẻ!!! Một mùa noel thật ấm áp nha. Chúc bạn luôn vui vẻ, xinh đẹp, yêu đời. Hy vọng bạn luôn cười, vì bạn đẹp nhất khi nở nụ cười ấy.",
                         ],
-                        typeSpeed: 100,
+                        typeSpeed: 50,
                         startDelay: 100,
-                        backSpeed: 500,
-                        backDelay: 250,
-                        loop: true,
                         contentType: 'html',
                         showCursor: false
                     });
